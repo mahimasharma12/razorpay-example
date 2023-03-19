@@ -1,0 +1,34 @@
+.App {
+    text-align: center;
+}
+
+.heading {
+    font-family: "Comic Sans MS", serif;
+    margin: 20px;
+}
+
+.headingFont {
+    font-family: "Comic Sans MS", serif;
+    margin: 40px;
+    justify-content: center;
+    align-items: center;
+    background-color: red;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.textInput {
+    width: 500px;
+    align-content: center;
+    margin: 10px;
+}
+
+.button {
+    margin: 20px;
+    background-color: royalblue;
+}
